@@ -4,14 +4,16 @@
 
 
 ## Let's get known 
-[:rat:] My name is Huseyn "Houston"
+[:rat:] My name is Huseyn "Houston"  
 [:ox:] I'm junior Cyber Security Specialist  
 [:tiger:] Apart from Cyber Security I have experience in Embedded Engineerig, Web Development and DevOps  
 [:rabbit:] In addition to professional career I'm expeerienced in teaching as well   
 [:dragon:] Currently I am continuing to increase my experience in software engineering    
 [:snake:] Curious to get more knowledge of Go, Rust and Github Actions   
 [:horse:] Reach out to me at : <a href="www.linkedin.com/in/huseyn-gambarov-0243651b1"> <img src="./assets/LI-In-Bug.png?raw=true" width="21px"/> </a>  
+[:goat:] Visit following repos to familiarize with my projects:  
 
+[:monkey:]  
 
 <!-- [Screenshot](./assets/background.jpg?raw=true) -->
 <!--
