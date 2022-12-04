@@ -1,4 +1,4 @@
-<img src="./assets/background.jpg?raw=true" />   
+<img src="./assets/baku4.jpg?raw=true" />   
 
 ### Greetings from the stars :dizzy:
 
