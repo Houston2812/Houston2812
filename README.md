@@ -10,7 +10,7 @@
 [:rabbit2:] In addition to professional career I'm expeerienced in teaching as well   
 [:dragon:] Currently I am continuing to increase my experience in software engineering    
 [:snake:] Curious to get more knowledge of Go, Rust and Github Actions   
-[:racehorse:] Reach out to me at :   <a href="www.linkedin.com/in/huseyn-gambarov-0243651b1"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=64px /> </a>   
+[:racehorse:] Reach out to me at :   <a href="https://www.linkedin.com/in/huseyn-gambarov-0243651b1"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=64px /> </a>   
 [:goat:] Tech stack:  
 <div>
 
