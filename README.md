@@ -1,6 +1,7 @@
 ### Greetings from the stars :dizzy:
  
-[Screenshot](./assets/background.jpg?raw=true)
+ <img src="./assets/background.jpg" alt="Background" title="Background">
+<!-- [Screenshot](./assets/background.jpg?raw=true) -->
 <!--
 **Houston2812/Houston2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
