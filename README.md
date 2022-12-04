@@ -37,7 +37,11 @@
 
 [:rooster:] Most used languages  
 
-[![Top Langs](https://github-readme-stats-flame-gamma.vercel.app/api/top-langs/?username=Houston2812&langs_count=4&layout=compact)](https://github.com/Houston2812/Houston2812)
+[![Top Langs](https://github-readme-stats-flame-gamma.vercel.app/api/top-langs/?username=Houston2812&langs_count=4&layout=compact)](https://github.com/Houston2812/Houston2812)  
+
+[:dog2:] Always happy to discuss some interesting computer science problem. Feel free to contact me via - <a href="mailto:huseyn.gambarov.std@bhos.edu.az?subject=[GitHub]%20Discussion">  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width=100px/> </a>  
+[:pig:] “Coincidence can be freaky.” – Ayanokouji Kiyotaka 
+
 <!--
 **Houston2812/Houston2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
