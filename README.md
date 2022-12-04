@@ -10,7 +10,7 @@
 [:rabbit:] In addition to professional career I'm expeerienced in teaching as well   
 [:dragon:] Currently I am continuing to increase my experience in software engineering    
 [:snake:] Curious to get more knowledge of Go, Rust and Github Actions   
-[:horse:] Reach out to me at : <a href="www.linkedin.com/in/huseyn-gambarov-0243651b1"> <img src="./assets/LI-In-Bug.png?raw=true" width="21px"/> </a>  
+[:horse:] Reach out to me at :   <a href="www.linkedin.com/in/huseyn-gambarov-0243651b1"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=64px /> </a>   
 [:goat:] Tech stack:  
 <div>
 
@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+
 </div>
 [:monkey:] GitHub stats
 
