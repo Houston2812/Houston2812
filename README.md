@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img style="background-color: white" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;
@@ -31,9 +31,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
+[:monkey:] GitHub stats
 
+[![Houston's GitHub stats](https://github-readme-stats-flame-gamma.vercel.app/api?username=Houston2812&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits)](https://github.com/Houston2812/Houston2812)  
 
-<!-- [Screenshot](./assets/background.jpg?raw=true) -->
+[:rooster:] Most used languages  
+
+[![Top Langs](https://github-readme-stats-flame-gamma.vercel.app/api/top-langs/?username=Houston2812&langs_count=4&layout=compact)](https://github.com/Houston2812/Houston2812)
 <!--
 **Houston2812/Houston2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
