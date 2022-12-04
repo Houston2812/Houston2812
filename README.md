@@ -1,4 +1,5 @@
-[Screenshot](./assets/background.jpg?raw=true)
+<img src="./assets/background.jpg?raw=true" />   
+
 ### Greetings from the stars :dizzy:
 
 
