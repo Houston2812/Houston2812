@@ -5,9 +5,9 @@
 
 ## Let's get known 
 [:rat:] My name is Huseyn "Houston"  
-[:ox:] I'm junior Cyber Security Specialist  
+[:ox:] I'm junior Application Security Specialist  
 [:tiger2:] Apart from Cyber Security I have experience in Embedded Engineerig, Web Development and DevOps  
-[:rabbit2:] In addition to professional career I'm expeerienced in teaching as well   
+[:rabbit2:] In addition to professional career I'm expeerienced in teaching as well and conducted several bootcamp in Cyber security and programming and was a Teaching Assistant for the "C programming lectures"  
 [:dragon:] Currently I am continuing to increase my experience in software engineering    
 [:snake:] Curious to get more knowledge of Go, Rust and Github Actions   
 [:racehorse:] Reach out to me at :   <a href="https://www.linkedin.com/in/huseyn-gambarov-0243651b1"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=64px /> </a>   
