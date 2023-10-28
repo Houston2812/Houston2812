@@ -32,13 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
 </div>
-[:monkey:] GitHub stats
-
-[![Houston's GitHub stats](https://github-readme-stats-flame-gamma.vercel.app/api?username=Houston2812&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits)](https://github.com/Houston2812/Houston2812)  
-
-[:rooster:] Most used languages  
-
-[![Top Langs](https://github-readme-stats-flame-gamma.vercel.app/api/top-langs/?username=Houston2812&langs_count=4&layout=compact)](https://github.com/Houston2812/Houston2812)  
+  
 
 [:dog2:] Always happy to discuss some interesting computer science problem. Feel free to contact me via - <a href="mailto:huseyn.gambarov.std@bhos.edu.az?subject=[GitHub]%20Discussion">  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width=100px/> </a>  
 [:pig2:] “Coincidence can be freaky.” – Ayanokouji Kiyotaka       
